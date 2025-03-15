@@ -1,0 +1,19 @@
+--- Research Output ---
+Timestamp: 2025-03-15 16:53:58
+
+{
+    "topic": "Global Warming: Causes, Effects, and Current Status",
+    "summary": "Global warming is a critical environmental phenomenon characterized by increasing global temperatures due to human-induced greenhouse gas emissions. Recent research indicates that warming has accelerated by more than 50% since 2010 compared to the 1970-2010 rate of 0.18°C per decade. The Earth is currently experiencing temperatures unprecedented in the past 11,700 years of the Holocene period. Key effects include melting glaciers and ice sheets, earlier breakup of river and lake ice, shifting geographic ranges of plants and animals, and earlier blooming patterns. The situation is exacerbated by record-high concentrations of carbon dioxide and methane. Notably, the reduction in aerosol pollutants, which historically had a cooling effect, may be contributing to accelerated warming rates. These changes are not theoretical future concerns but present-day realities affecting global ecosystems and human societies.",
+    "sources": [
+        "Wikipedia - Climate Change article",
+        "NASA Climate Change Research",
+        "Hansen et al. 2023 - Research on aerosol pollutants and warming acceleration",
+        "Global climate monitoring data and research"
+    ],
+    "tools_used": [
+        "wikipedia",
+        "search",
+        "save_text_to_file"
+    ]
+}
+
